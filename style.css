@@ -99,7 +99,7 @@ h2,.white{
     width: 100px;
 }
 /* animations / utilities */
-/*.section-2 a:hover{
+.section-2 a:hover{
     font-size: 1.3rem;
     color: #fff;
     cursor: pointer;
