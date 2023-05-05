@@ -12,7 +12,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #101214;
+    background-color: url("fenwaypark.jpg");
     color: #7A7C80;
 
 
@@ -21,7 +21,7 @@ body{
 
 
 h2,.white{
-    color: #af1212;
+    color: #ffffff;
 }      
 
 
